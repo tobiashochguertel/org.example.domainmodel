@@ -19,7 +19,8 @@
 		<moduleProperties></moduleProperties>
 		<systemProperties></systemProperties>
 		<additionalTestArguments></additionalTestArguments>
-		<arch>x86_64</arch>
+		<!--<arch>x86_64</arch>-->
+		<arch>arm64</arch>
 	</properties>
 	<modules>
 		<module>org.example.domainmodel</module>
